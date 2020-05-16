@@ -1,0 +1,9 @@
+name: prompter_emcl
+version: 0.0.1
+description: Library to create CLI wizards
+homepage: https://google.com
+
+
+environment: 
+  sdk: '<3.0.0'
+

@@ -1,0 +1,13 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "prompter_emcl",
+      "rootUri": "../",
+      "packageUri": "lib/"
+    }
+  ],
+  "generated": "2020-05-16T02:50:10.268807Z",
+  "generator": "pub",
+  "generatorVersion": "2.8.2"
+}
